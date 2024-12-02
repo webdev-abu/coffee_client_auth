@@ -9,7 +9,7 @@ function App() {
       <header>
         <Header />
       </header>
-      <main className="bg-main">
+      <main className="bg-main ">
         <Outlet />
       </main>
       <footer>

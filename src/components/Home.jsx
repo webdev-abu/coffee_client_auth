@@ -17,7 +17,7 @@ const Home = () => {
     <>
       <div className="bg-banner min-h-[calc(100vh-120px)] bg-cover bg-center relative">
         <div className="md:w-[724px] absolute md:left-[50%] top-[50%] md:-translate-x-[50%] lg:-translate-x-[100px] -translate-y-[50%] p-5 flex justify-center items-start flex-col gap-6">
-          <h3 className="text-[26px] md:text-[55px] font-normal font-rancho text-[#FFFFFF]">
+          <h3 className="text-[26px] md:text-[50px] font-normal font-rancho text-[#FFFFFF]">
             Would you like a Cup of Delicious Coffee?
           </h3>
           <p className="text-[13px] md:text-[16px] font-normal font-raleway text-[#FFFFFF]">
